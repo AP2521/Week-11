@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0626b64-c174-4bac-aa65-5b330ae736b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week-11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/browserfactory/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testsuite/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com-nopcommerce-sw-2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive-sw-2/com-orangehrmlive-sw-2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive-sw-2/src/browserfactory/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive-sw-2/src/testsuite/ForgotPasswordTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com-orangehrmlive-sw-2/src/testsuite/LoginTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com-saucedemo-sw-2/src/browserfactory/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2/src/browserfactory/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com-saucedemo-sw-2/src/testsuite/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com-saucedemo-sw-2/src/testsuite/LoginTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
